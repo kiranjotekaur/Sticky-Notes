@@ -21,3 +21,7 @@ Key Achievements:
 Successfully developed a feature-rich sticky note application with intuitive user interface and robust functionality, meeting project requirements and user expectations.
 Received positive feedback from users for the application's ease of use, flexibility, and aesthetic appeal, contributing to improved productivity and organization.
 Enhanced technical skills in frontend development, JavaScript programming, and UI/UX design through hands-on project experience and experimentation.
+
+
+![Screenshot 2024-05-17 132012](https://github.com/kiranjotekaur/Sticky-Notes/assets/165585039/14d26d42-e67d-49d8-be84-af7c5946bdb5)
+
