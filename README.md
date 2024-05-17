@@ -1,1 +1,2 @@
 # Sticky-Notes
+Developed an interactive sticky note application using HTML, CSS, and JavaScript, enabling users to add, delete, and customize colorful notes on the screen. Demonstrated proficiency in frontend development, UI design, and user interaction. Implemented JavaScript functionalities to enable users to add, delete, and manipulate sticky notes dynamically on the screen, enhancing user interaction and productivity.
