@@ -24,4 +24,8 @@ Enhanced technical skills in frontend development, JavaScript programming, and U
 
 
 ![Screenshot 2024-05-17 132012](https://github.com/kiranjotekaur/Sticky-Notes/assets/165585039/14d26d42-e67d-49d8-be84-af7c5946bdb5)
+![Screenshot 2024-05-17 132034](https://github.com/kiranjotekaur/Sticky-Notes/assets/165585039/878808d9-70df-49ca-a934-0befa75229df)
+
+![Screenshot 2024-05-17 132244](https://github.com/kiranjotekaur/Sticky-Notes/assets/165585039/13761e0e-2d6d-47be-856d-d08f18e6dbea)
+
 
